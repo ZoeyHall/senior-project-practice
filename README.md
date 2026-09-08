@@ -1,16 +1,20 @@
-# Introduction to GitHub
+# Senior Project
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## Project Information
 
-Hey ZoeyHall!
+This project is a simple Python program that displays information about me and my interests in technology.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### Information Displayed
 
-Remember, it's self-paced so feel free to take a break! ☕️
+- **Name:** Zoey Hall
+- **Major:** Computer Science
+- **Technology Interest:** Artificial Intelligence
+- **Skill I Hope to Develop:** Machine Learning
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ZoeyHall/senior-project-practice/issues/1)
+## Files
 
----
+- `app.py` — Python program that displays my project information.
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Purpose
 
+The purpose of this project is to practice creating and running a basic Python program while introducing my academic background, technology interests, and goals for Senior Project.
