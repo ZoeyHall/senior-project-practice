@@ -18,3 +18,15 @@ This project is a simple Python program that displays information about me and m
 ## Purpose
 
 The purpose of this project is to practice creating and running a basic Python program while introducing my academic background, technology interests, and goals for Senior Project.
+
+# Student Developer Profile
+
+**Name:** Zoey Hall
+
+**Technology Interest:** Artificial Intelligence
+
+**Senior Project Skill Goal:** Machine Learning
+
+### Development Workflow
+
+Branch → Code → Commit → Push → Pull Request → Review → Merge
