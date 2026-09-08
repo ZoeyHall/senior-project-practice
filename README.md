@@ -1,4 +1,3 @@
-
 # Senior Project
 
 ## Project Information
@@ -7,14 +6,14 @@ This project is a simple Python program that displays information about me and m
 
 ### Information Displayed
 
-* **Name:** Zoey Hall
-* **Major:** Computer Science
-* **Technology Interest:** Artificial Intelligence
-* **Skill I Hope to Develop:** Machine Learning
+- **Name:** Zoey Hall
+- **Major:** Computer Science
+- **Technology Interest:** Artificial Intelligence
+- **Skill I Hope to Develop:** Machine Learning
 
 ## Files
 
-* `app.py` — Python program that displays my project information.
+- `app.py` — Python program that displays my project information.
 
 ## Purpose
 
